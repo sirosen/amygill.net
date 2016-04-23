@@ -13,13 +13,13 @@
     color: #A4A4A4;
 }
 .navbar .navbar-nav li a {
-    color: #330033;
+    color: #001F3F;
 }
 .navbar .navbar-nav li a:hover {
-    color: #CC0033;
+    color: #7A0070;
 }
 .navbar .navbar-brand:hover {
-    color: #FFFFFF;
+    color: #F0F1F3;
 }
 .navbar .navbar-nav .dropdown-menu>li>a,
 .navbar .navbar-nav .open .dropdown-menu>li>a {
